@@ -14,7 +14,7 @@ Hi, I'm <b>Sankalp Subodh Rane</b>, I am currently pursuing a <b>Masters of Scie
 •	C++ •  Java • JavaScript • Python
 
 ### DATABASE
-•	MongoDB • MySQL
+•	MongoDB • PostgreSQL
 
 ### WEB DEVELOPMENT
 •	Spring Boot • NodeJS • Flask • Django 
